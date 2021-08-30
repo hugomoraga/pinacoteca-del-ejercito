@@ -1,7 +1,7 @@
 ---
 layout: "equipo"
 title: Conoce al Equipo
-permalink: /equipo
+permalink: /equipo.html
 ---
 
 {{ content }}

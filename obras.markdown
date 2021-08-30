@@ -1,7 +1,7 @@
 ---
 layout: "obras"
 title: Obras
-permalink: /obras
+permalink: /obras.html
 ---
 
 {{ content }}
