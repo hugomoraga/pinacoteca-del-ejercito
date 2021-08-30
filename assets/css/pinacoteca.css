@@ -1,12 +1,12 @@
 .header-pinacoteca {
-  background-image: url(/assets/images/banner.png);
+  background-image: url(/assets/images/sala-pinacoteca.jpg);
   background-size: cover;
   min-height: 40%;
   overflow: auto;
-  background-position: center center;
+  background-position: center top;
 }
 .header-pinacoteca #mainNav {
-  background-color: rgba(34, 39, 70, 0.5) !important;
+  background-color: rgba(70, 9, 27, 0.6) !important;
 }
 
 .card-pinacoteca .nav-link {
