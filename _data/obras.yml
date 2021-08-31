@@ -1,38 +1,51 @@
 - nombre: "Carga de Coraceros Napoleonicos"
   url: "/assets/images/pinturas/1 Carga-de-Coraceros-Napoleonicos.jpg"
+  pdf: "/assets/pdf/1_FICHA Coraceros Napoleonicos.pdf"
 
 - nombre: "Rézonville, 16 de agosto de 1870, la carga de los Coraceros"
   url: "/assets/images/pinturas/2 Rézonville,-16-de-agosto-de-1870,-la-carga-de-los-Coraceros.jpg"
+  pdf: "/assets/pdf/2_FICHA Rezonville.pdf"
 
 - nombre: "Carga de Cazadores"
   url: "/assets/images/pinturas/3 Carga-de-Cazadores.jpg"
+  pdf: "/assets/pdf/3_FICHA Cazadores.pdf"
 
 - nombre: "Retrato del General Bernardo O'Higgins"
   url: "/assets/images/pinturas/4 Retrato-del-General-Bernardo-O'Higgins.jpg"
+  pdf: "/assets/pdf/4_FICHA Bernardo OHiggins.pdf"
 
 - nombre: "Toma de Corral"
   url: "/assets/images/pinturas/5 Toma-de-Corral.jpg"
+  pdf: "/assets/pdf/4_FICHA Bernardo OHiggins.pdf"
 
 - nombre: "Boceto del general Manuel Baquedano"
   url: "/assets/images/pinturas/6 Boceto-del-general-Manuel-Baquedano.jpg"
+  pdf: "/assets/pdf/6_FICHA Baquedano.pdf"
 
 - nombre: "Combate de La Concepción"
   url: "/assets/images/pinturas/7 Combate-de-La-Concepción.jpg"
+  pdf: "/assets/pdf/7_FICHA Combate Concepcion.pdf"
 
 - nombre: "Retrato del Capitán Ignacio Carrera Pinto"
   url: "/assets/images/pinturas/8 Retrato-del-Capitán-Ignacio-Carrera-Pinto.jpg"
+  pdf: "/assets/pdf/8_FICHA Ignacio Carrera Pinto.pdf"
 
 - nombre: "Retrato del General Alejandro Gorostiaga Orrego"
   url: "/assets/images/pinturas/9 Retrato-del-General-Alejandro-Gorostiaga-Orrego.jpg"
+  pdf: "/assets/pdf/9_FICHA Gorostiaga.pdf"
 
 - nombre: "Retrato del General de División Luis Arteaga"
   url: "/assets/images/pinturas/10 Retrato-del-General-de-División-Luis-Arteaga.jpg"
+  pdf: "/assets/pdf/10_FICHA General Arteaga.pdf"
 
 - nombre: "Maniobras"
   url: "/assets/images/pinturas/11 Maniobras.jpg"
+  pdf: "/assets/pdf/11_FICHA Maniobras.pdf"
 
 - nombre: "Retrato del General Bartolome Blanche"
   url: "/assets/images/pinturas/12 Retrato-del-General-Bartolome-Blanche.jpg"
-
+  pdf: "/assets/pdf/12_FICHA Blanche.pdf"
+  
 - nombre: "Presentación de banderas austriacas capturadas al Emperador Napoleón"
   url: "/assets/images/pinturas/13 Presentación-de-banderas-austriacas-capturadas-al-Emperador-Napoleón.jpg"
+  pdf: "/assets/pdf/13_FICHA Banderas Austriacas.pdf"

@@ -7,7 +7,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/assets/css/lightbox.css">
-
+<!-- DC LightBox CSS -->
+<link rel="stylesheet" type="text/css" href="/assets/css/prettyPhoto.css" />
+ 
+<!-- jQuery Library (skip this step if already called on page ) -->
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script> <!-- (do not call twice) -->
+ 
+<!-- DC LightBox JS -->
+<script type="text/javascript" src="/assets/js/jquery.prettyPhoto.js"></script>
+ 
+<!-- DC LightBox Settings -->
+<script type="text/javascript">
+$(function(){
+    $("a[rel^='prettyPhoto']").prettyPhoto({
+        social_tools: false,
+    });
+});
+</script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="/assets/js/lightbox-plus-jquery.js"></script>
@@ -20,9 +36,9 @@
         <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark fixed-top navbar-scrolled nav-pinacoteca ">
                      
             <div class="row ">
-             <div style="width:200px; ">
+             <div style="width:500px; ">
                             <a href="/">
-                                <img src="/assets/images/escudo-logo.png" class="img-fluid">
+                                <img src="/assets/images/logo.png" class="img-fluid">
                             </a>
                         </div>
        
@@ -77,7 +93,7 @@ conocer a través de los códigos QR que se encuentran al costado de cada una.  
                             <img class="card-img filtered-sepia" src="/assets/images/obras.png" alt="Card image">
                                 <div class="card-img-overlay ">
                                     <div class="nav-item position-absolute h5" style="width:200px; bottom: 20px;">
-                                        <a href="/obras.html" class="nav-link text-uppercase text-white ">Obras</a> 
+                                        <a href="/obras" class="nav-link text-uppercase text-white ">Obras</a> 
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +113,7 @@ conocer a través de los códigos QR que se encuentran al costado de cada una.  
                             <img class="card-img filtered-sepia" src="/assets/images/equipo.png" alt="Card image">
                                 <div class="card-img-overlay ">
                                     <div class="nav-item position-absolute h5" style="width:220px; bottom: 20px;">
-                                        <a href="/equipo.html" class="nav-link text-uppercase text-white">Conoce al Equipo</a> 
+                                        <a href="/equipo" class="nav-link text-uppercase text-white">Conoce al Equipo</a> 
                                     </div>
                                 </div>
                         </div>
