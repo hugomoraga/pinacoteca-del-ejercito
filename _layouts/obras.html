@@ -9,16 +9,16 @@ layout: "wrapper"
             {{ page.title }}
         </div>
 
-        <div class="col-12">
+        <div class="col-12 text-center">
 
-<div class="row">
+<div class="row d-flex justify-content-center">
         {% for obra in site.data.obras %}
-        <div class="col-md-4">
+        <div class="col-md-4 pb-5 px-2 justify-content-center d-flex">
        <div class="card" style="width: 18rem;">
        
-  <a href="{{ obra.pdf}}"><img class="card-img-top rounded-0"   src="{{ obra.url }}" alt="{{ obra.nombre }}"/></a>
-  <div class="card-body p-1">
-    <p class="text-center">{{ obra.nombre }}</p>
+  <a href="{{ obra.pdf}}"><img class="card-img-top rounded-0 "   src="{{ obra.url }}" alt="{{ obra.nombre }}"/></a>
+  <div class="card-body p-1 " style="height:50px;">
+    <p class="text-center lh-sm">{{ obra.nombre }}</p>
 
   </div>
 </div>
